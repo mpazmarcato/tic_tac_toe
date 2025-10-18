@@ -42,7 +42,7 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/tic-tac-toe-rust.git
+git clone https://github.com/mpazmarcato/tic_tac_toe.git
 cd tic-tac-toe-rust
 ```
 
